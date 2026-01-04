@@ -71,7 +71,7 @@ A stunning 3D interactive portfolio website with modern animations, particle eff
 # 🚀 Quick Start
 
 # *Option 1: Live Demo*
-Visit the live portfolio: [https://sulton29-beep.github.io/portfolio-website/](https://sulton29-beep.github.io/portfolio-website/)
+Visit the live portfolio: [https://sultonportfolio3d.netlify.app/](https://sultonportfolio3d.netlify.app/)
 
 # *Option 2: Local Installation*
 ```bash
