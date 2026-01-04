@@ -1,6 +1,6 @@
 # 🚀 Sulton Hasanudin - 3D Interactive Portfolio
 
-![Portfolio Preview](tampilan.png)
+![Portfolio Preview](assets/tampilan.png)
 
 A stunning 3D interactive portfolio website with modern animations, particle effects, and immersive user experience. Built with pure HTML, CSS, and JavaScript.
 
